@@ -32,6 +32,6 @@
   {
     "caption": "Checkout Pull Request Locally",
     "command": "git",
-    "args": {"argv": ["pr", "checkout", "$text"]}
+    "args": {"argv": ["gh", "pr", "checkout", "$text"]}
   }
 ]
